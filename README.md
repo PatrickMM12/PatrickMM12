@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm... / Olá, eu sou... 
 ### Patrick Mendes 😁
 
-- 🔭 I’m currently working on: Cursando Sistemas de Informação
-- 🌱 I’m currently learning / Eu estou estudando: Java
+- 🔭 I’m currently working on: Cursando MBA em TI - Analytics, Big Data e Inteligence information
+- 🌱 I’m currently learning / Eu estou estudando: Python
 - 😄 Pronouns: Ele / Dele
 
 <div align="center">
@@ -21,9 +21,10 @@
   
   
 <div> 
+  <a href="www.linkedin.com/in/patrickmendesmacedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/patriick.mm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:patrickmacedo05@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/patrick-mendes-macedo-b873ab169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
   
   ![Snake animation](https://github.com/PatrickMM12/PatrickMM12/blob/output/github-contribution-grid-snake.svg)
   
